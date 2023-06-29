@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is José Carlos and my nickname is "phormol"!
 
-## Contatos:
+## Contact:
 
 <div>
 <a href="https://www.linkedin.com/in/josé-carlos-dos-santos-filho-3b71325b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
