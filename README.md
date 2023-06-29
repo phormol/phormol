@@ -1,4 +1,5 @@
-### José Carlos dos Santos Filho 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is José Carlos and my nickname is "phormol"!
 
 <!--
 **phormol/phormol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
